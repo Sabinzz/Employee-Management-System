@@ -1,0 +1,7 @@
+@import "tailwindcss";
+#TaskList::-webkit-scrollbar{
+  background-color: transparent;
+}
+#Tasks::-webkit-scrollbar{
+     background-color: transparent;
+}
