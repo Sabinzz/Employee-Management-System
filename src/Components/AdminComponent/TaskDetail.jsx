@@ -1,6 +1,11 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import { AuthContext } from '../../Context/AuthProvider'
+import { useState } from 'react'
 
 const TaskDetail = () => {
+
+
+
   return (
     <div className='mx-7 h-80 bg-[#212121] mt-14 '>
 <div className='flex justify-between'>

@@ -5,3 +5,6 @@
 #Tasks::-webkit-scrollbar{
      background-color: transparent;
 }
+#TaskDetail::-webkit-scrollbar{
+  background-color: transparent;
+}
